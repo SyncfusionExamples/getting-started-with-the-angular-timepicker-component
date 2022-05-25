@@ -1,6 +1,6 @@
 # Getting Started with the Angular TimePicker Component
 
-A quick-start project that helps you to create a new Angular application using the Angular CLI toolchain and add the Syncfusion TimePicker. This project contains simple code customization, as well as some important features like setting specific time values, format, placeholder, range restrictions, and mask support.
+A quick-start Angular project that was created using the Angular CLI toolchain, shows how to add the Syncfusion Angular TimePicker component to it. This project contains simple code customization, as well as some important features like setting specific time values, format, placeholder, range restrictions, and mask support.
 
 Documentation: https://ej2.syncfusion.com/angular/documentation/timepicker/getting-started/
 
