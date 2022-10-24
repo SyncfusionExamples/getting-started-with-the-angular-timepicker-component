@@ -1,6 +1,6 @@
 # Getting Started with the Angular TimePicker Component
 
-The [Angular TimePicker ](https://www.syncfusion.com/angular-components/angular-timepicker?utm_source=github&utm_medium=listing&utm_campaign=angular-timepicker-github-samples) is a lightweight and mobile-friendly component that allows end users to select a time value either from a pop-up time list or by entering the value directly in the text box. A quick-start Angular project that was created using the Angular CLI toolchain, shows how to add the Syncfusion Angular TimePicker component to it. This project contains simple code customization, as well as some important features like setting specific time values, format, placeholder, range restrictions, and mask support.
+The [Angular TimePicker](https://www.syncfusion.com/angular-components/angular-timepicker?utm_source=github&utm_medium=listing&utm_campaign=angular-timepicker-github-samples) is a lightweight and mobile-friendly component that allows end users to select a time value either from a pop-up time list or by entering the value directly in the text box. A quick-start Angular project that was created using the Angular CLI toolchain, shows how to add the Syncfusion Angular TimePicker component to it. This project contains simple code customization, as well as some important features like setting specific time values, format, placeholder, range restrictions, and mask support.
 
 ## Project prerequisites
 
