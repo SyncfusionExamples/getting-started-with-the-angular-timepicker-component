@@ -32,9 +32,9 @@ The Angular Material TimePicker component has a default, culture-specific time f
 ## Related links
 [Learn More about Angular TimePicker](https://www.syncfusion.com/angular-components/angular-timepicker?utm_source=github&utm_medium=listing&utm_campaign=angular-timepicker-github-samples)
 
-[Download Free Trial](https://www.syncfusion.com/downloads/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-timepicker-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/angular/confirm?utm_source=github&utm_medium=listing&utm_campaign=angular-timepicker-github-samples)
 
-[Pricing](https://www.syncfusion.com/sales/products/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-timepicker-github-samples)
+[Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=angular-timepicker-github-samples)
 
 [Documentation](https://ej2.syncfusion.com/angular/documentation/timepicker/getting-started?utm_source=github&utm_medium=listing&utm_campaign=angular-timepicker-github-samples)
 
